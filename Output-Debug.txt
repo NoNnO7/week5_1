@@ -1,0 +1,13 @@
+﻿'week5_1.exe' (Win32): Loaded 'C:\Study KMITL\Programming Fundamental\week_work\week5\week5_1\Debug\week5_1.exe'. Symbols loaded.
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x80d4 has exited with code 0 (0x0).
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'week5_1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x4e44 has exited with code 0 (0x0).
+The thread 0x50ec has exited with code 0 (0x0).
+The program '[36216] week5_1.exe' has exited with code 0 (0x0).
